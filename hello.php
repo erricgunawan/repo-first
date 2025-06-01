@@ -3,3 +3,7 @@
 <br />This one?
 
 <br />Hope it worked!
+
+<?php echo 'Adding second branch.'; ?>
+
+<br />Let's hope the pull request works.
